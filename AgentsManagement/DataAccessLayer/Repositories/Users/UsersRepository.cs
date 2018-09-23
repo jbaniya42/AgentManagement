@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataAccessLayer.Users
+namespace DataAccessLayer.Repositories.Users
 {
     public class UsersRepository : IUsersRepository
     {
