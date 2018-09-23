@@ -11,7 +11,7 @@ namespace DataAccessLayer.DbConstants
         #region [Users]
 
         public const string GetUsersSpName = "`agents`.`GetUsers`";
-        
+        //
         #endregion
     }
 }
